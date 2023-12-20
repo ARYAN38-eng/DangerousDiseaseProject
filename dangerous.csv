@@ -1,0 +1,872 @@
+,AnimalName,symptoms1,symptoms2,symptoms3,symptoms4,symptoms5,Dangerous
+0,dog,fever,diarrhea,vomiting,weight loss,dehydration,Yes
+1,dog,fever,diarrhea,coughing,tiredness,pains,Yes
+2,dog,fever,diarrhea,coughing,vomiting,anorexia,Yes
+3,dog,fever,difficulty in breathing,coughing,lethargy,sneezing,Yes
+4,dog,fever,diarrhea,coughing,lethargy,blue eye,Yes
+5,dog,fever,respiratory distress,seizuers,hyperesthesia,sudden death,Yes
+6,dog,ulcers,diarrhea,poor appetite,tarry stool,enlarged lymph nodes,Yes
+7,dog,facial swelling,bloody drool,foul breath,unable to eat,lossened teeth,Yes
+8,dog,fever,difficulty in breathing,thrist and urination,weight loss,enlarged lymph nodes or swelling,Yes
+9,dog,swelling on leg,painfull,nasal discharge,broken bones,nasal discharge,Yes
+10,dog,short term lethargy,loss of  appetite,weekness in the back legs,rapid heart rate,week pulse,Yes
+11,dog,swollen lymph nodes,difficulty in walking,back pain,lethargy,vaginal discharge,Yes
+12,dog,fever,diarrhea,abdominal pain,stiffness,severe weekness and depression,Yes
+13,dog,fever,loss of  appetite,reduce energy,lameness,swelling of joints,Yes
+14,dog,fever,chronic eye inflamation,poor appetite,lethargy,neurologic abnormalities,Yes
+15,dog,fever,swelling of face or leg,poor appetite,depression,pains,Yes
+16,dog,diarrhea with muscus,tensemus,watery stool,flatulence,pains,Yes
+17,dog,strong cough,runny nose,sneezing,lethargy,loss of appettite,Yes
+18,dog,fever,inflammed eye,coughing,depression,limping,Yes
+19,dog,fever,difficulty in breathing,coughing,eye and skin change,unable to exercise,Yes
+20,dog,fever,loss of  appetite,coughing,lethargy,joint pain,Yes
+21,dog,lesions in the nasal cavity,lesions on nose,nose bleeds,noisy breathing,lesions on nose,Yes
+22,dog,hair loss,dandruff,darkened skin,crusting of the skin,ulcerated skin,Yes
+23,dog,greenish yellow nasal discharge,lack of pigmentation,sneezing,lethargy,pain on face,Yes
+24,dog,fever,diarrhea,poor appetite,weight loss,vomitting,Yes
+25,dog,jaundice,pneumonia,lession on the skin,pain,vomitting,Yes
+26,dog,poor coat apperence,diarrhea,vomiting,weight loss,dehydration,Yes
+27,dog,watering,no appp,vomiting,lethargy,dehydration,Yes
+28,dog,straining,diarrhea,vomiting,weight loss,blindness,Yes
+29,dog,upset stomach,diarrhea,vomiting,muscle pain,muscle stiffness,Yes
+30,dog,upset stomach,diarrhea,coughing,weight loss,anaemia,Yes
+31,dog,allergic reaction,poor appetite,coughing,weight loss,distended chest,Yes
+32,dog,fever,anoxeria,weight loss,lethargy,pain,Yes
+33,dog,limping,willnot run to jump,swelling,week legs,pain on leg,Yes
+34,cat,fever,eye ulcer,congestion,depression,pink eye,Yes
+35,cat,pnemonia,loss of  appetite,eye disharge,lameness,arthritis,Yes
+36,cat,fever,seizures,hydrophobia,jaw is dropped,shyness or aggression,Yes
+37,cat,bloody urine,difficulty in breathing,vomiting,weight loss,anorexia,Yes
+38,cat,loss of eat,difficulty in breathing,swelling,lameness,neurologic abnormalities,Yes
+39,cat,dark or black face,diarrhea,vomiting,blood in faces,pain,Yes
+40,cat,jaundice,difficulty in breathing,seizuers,lethargy,pale gums,Yes
+41,cat,appetite varies,diarrhea,vomiting,weight loss,pain,Yes
+42,cat,loss of eat,fell unwell,lethargy,weight loss,skin issue,Yes
+43,cat,sickness,loss of  appetite,vomiting,weight loss,raised growth or bump,Yes
+44,cat,nasal bleeding,diffulty chewing,swelling,weight loss,anorexia,Yes
+45,cat,ulcers,lesions,scabs,lumps,bumps black grey or red ,Yes
+46,cat,gasc,loss of  appetite,blood in stool,stomach growling,black stool,Yes
+47,cat,shaking head,scartching ear,black on ear,bad smell,red and inflammation ear,Yes
+48,cat,attacks,loss of  appetite,coughing,weight loss,periodic vommiting,Yes
+49,cat,blood stool,diarrhea,coughing,weight loss,anemia,Yes
+50,cat,nasal discharge,nosebleeds,inflamed nostrils,sneezing,lound breathing,Yes
+51,cat,polyuria,loss of  appetite,vomiting,weight loss,polydipsa,Yes
+52,cat,exessive urination,change in gait,vomiting,weight loss,inability to jump,Yes
+53,cat,convulsion,loss of consciousness,chewing,twitching,salivating,Yes
+54,cat,wheezing,rapid breathing,coughing,swallowing,effort to breath,Yes
+55,cat,jaundice,weekness,lethargy,weight loss,anorexia,Yes
+56,cat,lession on cat skin,dandruff in cat coat,red patches,hair loss,skin issue,Yes
+57,cat,lethargy,diarrhea,vomiting,discharge from eye,anorexia,Yes
+58,cat,skin irritation,scartching,lethargy,hair loss,excessive grooming,Yes
+59,cat,floopy muscle,speech delay,intellectual disability,walking problem,eye movements,Yes
+60,cat,sensitivity to bright light,disharge from affected eye,inflammation,clouded cornea,rubbing eye,Yes
+61,cat,fever,diarrhea,vomiting,cramps,dehydration,Yes
+62,cat,tenderness,erythema,swelling,scartch,pain,Yes
+63,cat,fever,diarrhea,vomiting,salivation,decrease appetite,Yes
+64,cat,scaly patches of skin,sore,scabs,scartch,hair loss,Yes
+65,cat,fatty stool,diarrhea,vomiting,weight loss,pain,Yes
+66,cat,nausea,loss of appetite,vomiting,firm,distended stomach,Yes
+67,cat,fever,swelling  in the bite area,lethargy,limp,pain,Yes
+68,cat,fever,loss of appetite,eyeproblem,liver disease,nuerological,Yes
+69,cat,fever,mild sneezing,coughing,nasal,ocular discharge,Yes
+70,rabbit,most often none,sneezing,nasal discharge,dyspnea,pain,Yes
+71,rabbit,fever,diarrhea,vomiting,blood from mouth,shock,Yes
+72,rabbit,discomfort,diarrhea,dry or dull hair,grinding teeth,pain,Yes
+73,rabbit,loss of appetite,swelling,nasal discharge,blindness,lethargy,Yes
+74,rabbit,rhinitis,pneumonia,abscessess,torticollis,septicemia,Yes
+75,rabbit,fever,diarrhea,enteritis,weight loss,stomach  cramps,Yes
+76,rabbit,immediate death,difficulty in breathing,blue colored lip,bloody discharge,neurologic abnormalities,Yes
+77,rabbit,fever,pox lession on skin,skin reashes,nasal discharge,mortality varies,Yes
+78,rabbit,red on affected area,horny growth,wart like growth,red skin,lesions on ear,Yes
+79,rabbit,fever,chills,skin ulcer,exhaustion,swollen and painfull,Yes
+80,rabbit,watering diarrhea,depression,emaciation,ruffled coat,lethargy,Yes
+81,cow,weight loss,emaciation,loss of appetite,weakness,diarrhoea,Yes
+82,chicken,loss of appetite,diarrhea,swollen purple wattle,swollen comb,lameness,Yes
+83,chicken,loss of appetite,diarrhea,ruffled feathers,weight loss,inability to absorb nutrients,Yes
+84,chicken,egg production decreases,stunted growth,blindness,distinctive bumps,facial swelling,Yes
+85,chicken,loss of appetite,thirst,ruffled feathers,closed eyes,diarrhea,Yes
+86,cow,fever,weakened legs,los of the ability to walk,mammary glads,fluif filled blisters,Yes
+87,cow,fever,weakened legs,los of the ability to walk,weight loss,lameness,Yes
+88,cattle,abortion at the end of gestation,fatigue,weak calves,join pains,swelling of internal organs,Yes
+89,mammal,swollen,red colored,hot udder,milk getting out more watery,milk getting out more thick,Yes
+90,cattle,fever,distress,trembling,staggering,convulsion,Yes
+91,cattle,fever,animal become lame,prostrat,painfull swalling,lameness,Yes
+92,cattle,fever,difficulty in breathing,dribbling of saliva,inability of swalllon feeding,moist and painfull,Yes
+93,cattle,fluif faeces on blood and muscle,sudden death,blooody fluid,red diarrhea,faeces are streake with blood,Yes
+94,cattle,fever,pneumonia,stand with head droping,weight loss,abnormal behaviour,Yes
+95,cattle,fever,slightly swollen,lession on the skin,milky hard,papules appear on teats anad udder,Yes
+96,cattle,fever,dull,hind quarted soil,animal stop feed,decrease in milk production,Yes
+97,cattle,severe,diarrhea,blood on faces,appetite,milk reduce,Yes
+98,cattle,fever,depression,relunctance to move,salivation,nasal discharge,Yes
+99,cattle,normal appetite,diarrhea,swelling may occur under jaw,weight loss,drop in milk production,Yes
+100,cattle,swelling on leg,heat,hardness,redness,pain,Yes
+101,cattle,inability to stand,diarrhea,bottle jaw,pot belly,dry hair coat,Yes
+102,cattle,excitability,nervousness,loss of appetite,hyper sensitivity,weakness,Yes
+103,cattle,fever,depression,attack,bite other animals,pain,Yes
+104,cattle,fever,difficulty in breathing,coughing,painfull,eye become dull,Yes
+105,cattle,fever,ulcer on gum,red eye,yellowish discharge,bloody diarrhea,Yes
+106,cattle,fever,diarrhea,coughing,consistency of milk,pain,Yes
+107,cattle,animal gets uneasy,difficulty in breathing,difficult in respiration,excessive production,stamping and pedding of hind eye,Yes
+108,horse,fever,chills,severe colic,weakness,anorexia,Yes
+109,horse,fever,body stiffness,lethargy,severe inflammation,pain,Yes
+110,horse,sickness,diarrhea,weight loss,nausea,dehydration,Yes
+111,horse,sudden death,trouble walking,paralysis,depression,convulsion,Yes
+112,horse,fever,abortion,kidney failure,inflammation of eye,eye redness,Yes
+113,horse,small red bumps,pneumonia,septic arthritis,skin infection,pain,Yes
+114,horse,fever,ataxia,aggressiveness,depression,obscure lameness,Yes
+115,horse,ring shaped lesion,round patches,dry skin,size of lesions vary,pain,Yes
+116,horse,fever,diarrhea,loss of appetite,colic,weakness,Yes
+117,horse,fever,depression,loss of appetite,stumbling,ataxia,Yes
+118,turtle,bubbles in the mouth,wheezing,loss of appetite,lethargy,nasal discharge,Yes
+119,turtle,changes in outer layer skin,swelling of eye,loss of appetite,lethargy,respiratory infection,Yes
+120,turtle,red tinge,slim over the shell,bad smell,easily damage shell,flaking of the scutes,Yes
+121,turtle,passing of undigested food,diarrhea,vomiting,gas or bloating,dehydration,Yes
+122,hamster,smell,diarrhea,loss of appetite,excess sleeping,folded ears,Yes
+123,hamster,loss of activity,rough coat,loss of appetite,weight loss,eventually death,Yes
+124,hamster,fever,diarrhea,vomiting,dehydration,pain,Yes
+125,hamster,bald patches,hair loss,crusty,flaky,red lesion from bald patches,Yes
+126,hamster,poor condition,enlarged lymph nodes,diarrhea,weight loss,pain,Yes
+127,hamster,fever,chills,coughing,progressive weakness,joint pain,Yes
+128,hamster,heavy infection,diarrhea,vitamin and minerals defiency,weight loss,pain,Yes
+129,lion,fever,diarrhea,muscle weakness,muscle pain,abdonormal discomfort,Yes
+130,lion,fever,chills,headache,nausea,pain,Yes
+131,lion,thicked skin,hair tining,hair loss,scabbing,itchiness,Yes
+132,lion,facial edema,loss of earing,vomiting,head ache,throat and ear pain,Yes
+133,lion,general malaise,hepatic failure,vomiting,weight loss,abdonormal pain,Yes
+134,lion,upset stomach,loss of appetite,nause,weight loss,abdonormal pain,Yes
+135,lion,fever,muscle loss,skeleten pain,weight loss,wasting,Yes
+136,lion,oedema,swelling of face or leg,swelling of neck,weight loss,pain,Yes
+137,lion,poor growth,short stature,enlargement of bones,lameness,weigth bearing long bones,Yes
+138,lion,fever,chills,sweat,head ache,fatique,Yes
+139,lion,fever,loss of appetite,weakness,weight loss,vomitting,Yes
+140,lion,dullness,lacrimation,coughing,diarrhea,seizures,Yes
+141,lion,vomiting,bloody diarrhea,lethargy,dehydration,anorexia,Yes
+142,lion,fever,uncharacteristic hiding,depression,dehydration,stopped eat,Yes
+143,lion,fever,poor coat condition,infection of the skin,weight loss,fatique,Yes
+144,lion,weakness,stiffness,trembling,white mark on the muscle,loss of vitamin e,Yes
+145,fox,partial paralysis,staggering as drunk,self mutilation,acting aggressive,acting unnaturally tame,Yes
+146,fox,fever,tiredness,headache,skin rashes,pain,Yes
+147,fox,thick crusting,itchiness,hair loss,watery eye,pain,Yes
+148,fox,constant pacing,facial muscle twitching,abnormalalities,blindness,muscle pain,Yes
+149,fox,loss of appetite,wheezing,seizuers,skin rashes,fatique,Yes
+150,fox,indigestion,abdominal pain,constipation,diarrhea,nausea,Yes
+151,fox,blood in urine,diarrhea,vomiting,lethargy,bleeding in eye and skin,Yes
+152,goat,fever,malaise,weakness,weight loss,pain,Yes
+153,goat,fever,diarrhea,vomiting,stomach cramps,nausea,Yes
+154,goat,fever,lack of coordination,depression,salivation,facial paralysis,Yes
+155,goat,sores on lip,infection,sores on lower leg and teats,lesion,pain,Yes
+156,goat,abortion on late pregancy,stillbirth,retained placenda,endomeritis,decrease appetite,Yes
+157,goat,paresis,paralysis,weakness,stomach cramps,diarrhea,Yes
+158,goat,fever,diarrhea,swelling,weight loss,pain,Yes
+159,goat,fever,hemolytic anemia,hemoglobinuria,pulmonary congestion,jaundice,Yes
+160,goat,abortion,mummification,stillbirth,weak kids,pain,Yes
+161,goat,runny nose,difficulty in breathing,coughing,weakness,loss of appettite,Yes
+162,goat,fever,nasal discharge,respiratory distress,pox lesion,pain,Yes
+163,goat,fever,dark colored bloody,incoordination,difficulty in breathing,terminal convulsion,Yes
+164,goat,fever,dysentery,swelling,immediate death,pain,Yes
+165,goat,fever,respiratory distress,mucous discharge,reduce feed,weight gain,Yes
+166,goat,decreased milk,holding limbs off the ground,weight loss,lameness,wool production,Yes
+167,goat,swelling of udder,change in milk,swollen,tender to touch,pain,Yes
+168,goat,fever,respiratory distress,occular discharge,mouth lesion,nasal discharge,Yes
+169,goat,fever,wound lesion,excess salivary,difficult in walking,pain,Yes
+170,goat,emaciation,edema in lower jaw,coughing,shivering,anemia,Yes
+171,goat,fever,reduce growth,kid moratality,weakness,dullness,Yes
+172,goat,fever,reduce growth,edema in lower jaw,weight loss,anemia,Yes
+173,goat,emaciation,diarrhea,kid moratality,weakness,anemia,Yes
+174,goat,skinallergy,reduce growth,wound,head ache,dizziness,Yes
+175,goat,watering of eyes,redness of white of the eye,swelling of eyelid,cornea become cloudy,tear production,Yes
+176,goat,berberi,wasting,nervous,weight loss,anorexia,Yes
+177,goat,gastritis,morbidity,bloody,mortality,anemia,Yes
+178,deer,fever,severe headache,vomiting,coughing,fatique,Yes
+179,deer,fever,tiredness,swollen kidney,hematuria,muscle aches,Yes
+180,deer,fever,diarrhea,decreased appetite,vomiting,bloody,Yes
+181,deer,gas,diarrhea,abdominal discomfort,vomiting,nausea,Yes
+182,deer,drooping ears,lack of coordination,drooling,wasting,listlessness,Yes
+183,chicken,edema,diarrhea,nasal discharge,decresed egg production,sneezing,Yes
+184,chicken,drooping wings,depression,nasal discharge,coughing,greenish diarrhea,No
+185,chicken,weakness,yellow or green dropping,purplish combs,wattles,drop on egg production,No
+186,chicken,neck paralysis,diarrhea,ruffled feathers,labored breathing,weakness,No
+187,chicken,facial swelling,lacrimation,diarrhea,anorexia,nasal discharge,No
+188,chicken,loss of appetite,depression,paralyzed leg,weight loss,anemia,No
+189,chicken,dejection,loss of appetite,slow growth,diarrhea,lesion,No
+190,chicken,severe swellimg,heavy breathing,diarrhea,weight loss,pain,No
+191,chicken,weakness,diarrhea,high moratality,dehydration,anorexia,No
+192,monkey,fever,hepatitis,skin rashes,weight loss,pain,No
+193,monkey,sneezing,epistaxis,coughing,difficulty in breathing,nasal discharge,No
+194,monkey,sneezing,unilateral nasal discharge,gagging,retching,weight loss,Yes
+195,monkey,fever,depression,coughing,weight loss,anorexia,Yes
+196,monkey,shallow breathing,halitosis,coughing,lethargy,nasal discharge,Yes
+197,monkey,dyspnea,sneezing,coughing,difficulty in breathing,infection,Yes
+198,monkey,dyspnea,sneezing,coughing,difficulty in breathing,pain,Yes
+199,monkey,fever,rhinorrhea,coughing,sneezing,dehydration,Yes
+200,monkey,fever,rhinorrhea,coughing,facial edema,dyspnea,Yes
+201,monkey,fever,rhinorrhea,coughing,sneezing,nasal discharge,Yes
+202,monkey,mortality,painfull,coughing,weight loss,nasal discharge,Yes
+203,monkey,skin rashes,diarrhea,death,facial edema,pain,Yes
+204,monkey,fever,dyspnea,coughing,lethargy,weightloss,Yes
+205,monkey,fever,dyspnea,coughing,weakness,anorexia,Yes
+206,monkey,facial edema,dyspnea,conjuctivtis,weakness,pharyngitis,Yes
+207,monkey,fever,pneumonia,congestion,lethargy,nasal discharge,Yes
+208,monkey,fever,death,coughing,weight loss,nasal discharge,Yes
+209,monkey,sneezing,convulsion,seizuers,weight loss,nasal discharge,Yes
+210,monkey,fever,death,coughing,dyspnea,anorexia,Yes
+211,monkey,dyspnea,difficulty in breathing,coughing,lethargy,nasal discharge,Yes
+212,monkey,air sacculitis,halitosis,coughing,enteritis,weight loss,Yes
+213,monkey,fever,convulsion,sudden death,urine retention,weight loss,Yes
+214,monkey,dyspnea,neurologic sign,coughing,depression,anorexia,Yes
+215,monkey,fever,dyspnea,coughing,lethargy,anorexia,Yes
+216,monkey,labored breathing,dyspnea,coughing,depression,anorexia,Yes
+217,monkey,blood from mouth,diarrhea,coughing,lethargy,weight loss,Yes
+218,monkey,hemopytsis,diarrhea,asymptomatic,death,epistaxis,Yes
+219,monkey,restlessness,weakness,blue straws,death,pain,Yes
+220,birds,stripped remiges,less feather growth,ruffled feathers,defienciency in vitamin,diarrhea,Yes
+221,birds,apathy,depression,dilation of duodenum,cloacal pasting,congestion,Yes
+222,birds,lepatomegaly,splenomegaly,vomiting,swollen,shaking oh head,Yes
+223,birds,balance problem,abdominal destention,neck paralysis,weight loss,pains,Yes
+224,birds,legness,paresis,coughing,weight loss,shortness of breath,Yes
+225,birds,fever,sour throat,mortality,muscle aches,abnormalities,Yes
+226,birds,difficulty in feeding,preening,weakness,beak overgrowth,anemia,Yes
+227,birds,fever,loss of appetite,ear infection,depression,nasal discharge,Yes
+228,birds,forthy eye,torticollis,weakness,swelling,emaciation,Yes
+229,birds,inappentence,diarrhea,tremors of the head,dehydration,weight loss,Yes
+230,birds,lack of walking,lack of flying,roughened,dehydration,pains,Yes
+231,birds,skin rashes,small and yellow bumps,swelling,dry scabs,lameness,Yes
+232,birds,scabs on feet,redness,trachea,thickening of skin,pains,Yes
+233,birds,enlarged thymus,obstructed lungs,lethargy,skin rashes,weight loss,Yes
+234,birds,fluffed feather,loss of appetite,coughing,vomiting,snoring,Yes
+235,birds,fever,difficulty in breathing,yellow eye,sneezing,diphtherictic,Yes
+236,birds,heavy breathing,yellow in beak,tail_bobbing,weakness,sleeping excessively,Yes
+237,birds,puffed_up feather,less eat,headache,half closed eye,seizures,Yes
+238,birds,fever,diarrhea,swollen abdomen,vomiting,difficulty in breathing,Yes
+239,birds,tail wagging,straining,lethargy,weakness,diarrhea,Yes
+240,birds,overweight,loss of appetite,ruffled feathers,depression,diarrhea,Yes
+241,birds,dejection,loss of appetite,stress,coughing,pains,Yes
+242,birds,skin infection,secondary infection,coughing,depression,shaking oh head,Yes
+243,birds,discharge from eyes,lethargy,coughing,sneezing,fatique,Yes
+244,birds,fever,chills,retarded growth,chest pain,chest pain,Yes
+245,birds,pale comb,lame,death,swolling of joint,eye closed,Yes
+246,birds,lethargy,loss of appetite,difficulty in swallowing,weakness,vision problem,Yes
+247,birds,emaciation,difficulty in breathing,vomiting,weakness,diarrhea,Yes
+248,birds,liquid dropping,exhaustion,ataxia,lethargy,seizures,Yes
+249,birds,undigested in their feces,loss of appetite,loss of pigment,weakness,bloody in feather,Yes
+250,birds,sharp feather,clubbed feather,eye disharge,loss of powder down,diarrhea,Yes
+251,birds,ruffled appearance,loss of appetite,vomiting,green dropping,nasal discharge,Yes
+252,birds,sinuses,swollen eyelids,skin rashes,sneezing,misshapen beak,Yes
+253,birds,feather loss,feather plucking,coughing,itching,nasal discharge,Yes
+254,birds,watery eyes,eye closed,weight loss,sneezing,nervous issue,Yes
+255,birds,bony lesion,skin rashes,ataxia,anorexia,weakness,Yes
+256,birds,tremor of head and neck,blindness,kicking at the belly,exercise in tolerance,pains,Yes
+257,sheep,swollen belly,dullness,discharge,urination,lying down,Yes
+258,sheep,fever,dullness,depression,weight loss,anorexia,Yes
+259,sheep,fever,succumb,spread of infection,weight loss,anorexia,Yes
+260,sheep,signs in rams,signs in ewe,underdeveloped muscles,semen examination,reduce lamp marking,Yes
+261,sheep,spines,unusally thin,weakness,enlarged skulls,weakness,Yes
+262,sheep,discharge,sudden abortion,hemoglobinuria,death of lamb,weight loss,Yes
+263,sheep,fever,hemolytic anemia,sweats,congestion,jaundice,Yes
+264,sheep,fever,tiredness,loss of appetite,muscle aches,chest pain,Yes
+265,sheep,excess salivation,diarrhea,depression,nasal discharge,weakness,Yes
+266,sheep,fever,diarrhea,incoordination,abortion,blood poisioning,Yes
+267,sheep,fever,wasting,dehydration,deability,weakness,Yes
+268,sheep,fever,diarrhea,muscle twiching,lameness,weight loss,Yes
+269,sheep,teeth griding,apathy,dehydration,ruminal stasis,watery faeces,nan
+270,sheep,fever,depression,lying down,weak pulse,colic,Yes
+271,sheep,swelling,lameness,hyperaestesia,hock joint,weight loss,Yes
+272,sheep,head tilt,circling,muscles ache,blindness,seizures,Yes
+273,sheep,decreased growth of bone,depression,grunting,lameness,weight loss,Yes
+274,sheep,swollen left abdomen,lying down,staggering,urination,extension of neck,Yes
+275,sheep,cessation of eructation,difficulty in breathing,depression,anorexia,colic,Yes
+276,sheep,fever,excession salivation,abnormal conformation,ulcerated muscle,ulcerated ear,Yes
+277,sheep,barren ewes,abortion,poor conformation,hairy fleeces,weight loss,Yes
+278,sheep,tremor,viability,coughing,anorexia,weight loss,Yes
+279,sheep,fever,tachypea,swelling of head and neck,anorexia,nasal discharge,Yes
+280,sheep,lllthrift,skin lesion,lameness,swelling on thebody,weight loss,Yes
+281,sheep,swelling,heat,flank,pain,nasal discharge,Yes
+282,sheep,fever,loss of appetite,lameness,rump,weight loss,Yes
+283,sheep,fever,swelling,loss of appetite,anorexia,weight loss,Yes
+284,sheep,fever,diarrhea,bloody droping,abdominal discomfort,lethargy,Yes
+285,sheep,fever,depression,small intestines,death,flock moratality,Yes
+286,sheep,haemorrhage,straw colored,abdominal pain,death,carcass decomposes,Yes
+287,sheep,bloody diarhhea,depression,dullness,death,weakness,Yes
+288,sheep,reluctant move,loss of appetite,lameness,death,weakness,Yes
+289,sheep,fever,depression,loss of appetite,loss of appetite,pains,Yes
+290,sheep,fever,difficulty in breathing,lethargy,death,pains,Yes
+291,sheep,poor wool,loss of appetite,lameness,small size,poor body condition,Yes
+292,sheep,poor immune function,achomotrica,dehydration,death,pains,Yes
+293,sheep,abdominal pain,diarrhea,malpresentation,shock,anorexia,Yes
+294,sheep,fetopelvic dispropotion,uteria inertia,despression,death,pains,Yes
+295,sheep,watery diarrhea dispropotion,sick,corneal ulceration,loss of appetite,death,Yes
+296,sheep,severe kerititis,conjunctive,discharge,iris prolapse,loss of eye,Yes
+297,sheep,swollen,testical pain,itches,bloody discharge,tenderness,Yes
+298,sheep,fever,diarrhea,depression,scratches,weight loss,Yes
+299,sheep,foul smelling,dullness,dirty,stained wool,tail shaking,Yes
+300,sheep,sheep often bites,fleece become thin,loss of wool,death,pains,Yes
+301,sheep,fever,dullness,dullness,skin rashes,pains,Yes
+302,sheep,fever,difficulty in breathing,rub,coughing,sneezing,Yes
+303,sheep,restlessness,kick,lethargy,nible at their wool,scratching,Yes
+304,sheep,jaundice,loss of appetite,rough hair coat,coughing,death,Yes
+305,sheep,fever,reduce reproductive potential,agalactia,loss of milk production,sloughing of the tail,Yes
+306,sheep,pyrexia,oral lesion,swelling,lameness,death,Yes
+307,sheep,red skin,loss of appetite,moist,lameness,pains,Yes
+308,sheep,limping,skin colour change,flabby,raw,sensitive to touch,Yes
+309,sheep,groosly enlarged,skin may thicken,convulsion,edematous,pains,Yes
+310,sheep,hyperexcitability,muscular spasms,gums,death,pains,Yes
+311,sheep,decreased eyelid,very cold skin,lethargy,lip,fever,Yes
+312,sheep,fever,diarrhea,muscus,weight loss,death,Yes
+313,sheep,foul smelling,diarrhea,colic,bloody discharge,blood clots,Yes
+314,sheep,inability to digest,diarrhea,dehydration,weight loss,anemia,Yes
+315,sheep,fever,diarrhea,pot belly,death,loss of appettite,Yes
+316,sheep,emaciation,diarrhea,coughing,weight loss,death,Yes
+317,sheep,respiratory distress,diarrhea,death,reduce milk,weight loss,Yes
+318,sheep,lllthrift,bottle jaw,strange behaviour,aneamia,jaundice,Yes
+319,sheep,fever,lameness,wasting,blindness,staggering,Yes
+320,sheep,fever,diarrhea,clearly unthrifty,weight loss,good appetite,Yes
+321,sheep,fever,dullness,relunctance to walk,infected navels,pains,Yes
+322,sheep,tenderness,foot hot,facial paralysis,weight loss,pains,Yes
+323,sheep,fever,lack of coordination,painfull to touch,circling,depression,Yes
+324,sheep,swollen,warm,constipation,depression,bloody,Yes
+325,sheep,fever,loss of appetite,stumbling,restlessness,pains,Yes
+326,sheep,unsteady gait,twitching,blindness,swelling on joints,pains,Yes
+327,sheep,fever,ulcer,scabs,discharge from eye,pains,Yes
+328,sheep,smell of ammonia,ulcer,depression,swelling,pains,Yes
+329,sheep,fever,lethargy,blindness,inappentence,increased in breathing,Yes
+330,sheep,wandering,circling,blindness,head pressing,recumbency,Yes
+331,sheep,tremors,lying on the side,difficulty in swallowing,death,not eating,Yes
+332,sheep,fever,difficulty in breathing,coughing,sneezing,seizures,Yes
+333,sheep,swelling,loss of appetite,wool loss,tears,death,Yes
+334,sheep,wool is clumped,feels stiff,staggering,skin rashes,pains,Yes
+335,sheep,swaying,behaviour change,tremor,jerky limb movements,pains,Yes
+336,sheep,cell damage,behaviour change,weight loss,pruritis,death,Yes
+337,sheep,swelling,discomfort,difficulty in rising,death,pains,Yes
+338,sheep,swollen,hot joints,pustulses,difficulty in walk,pains,Yes
+339,sheep,formation of vesicles,nostrils,abnormally long leg,scabs on lip,pains,Yes
+340,sheep,skeleten abnormalities,facial defects,hair loss,flat ribs,underdeveloped muscles,Yes
+341,sheep,wether restless,kicking,normal appetite,attempt to urinate,pains,Yes
+342,sheep,inability to stand,pains to walk,depression,weakness,stiffness,Yes
+343,sheep,fever,succumb,sluggish,anorexia,pains,Yes
+344,sheep,listless,bottle jaw,malpresentation,death,oxygen defiency,Yes
+345,sheep,fever,swelling,bloody,death,anemia,Yes
+346,sheep,thivk skin,crusty,scaly skin,lesion,pains,Yes
+347,sheep,fever,abortion,vomiting,weight loss,anorexia,Yes
+348,sheep,dizzines,anemia,vomiting,head ache,nausea,Yes
+349,sheep,fever,wool loss,swelling,weight loss,pains,Yes
+350,sheep,tear production,aversion to light,bluish white opacity,blindness,pains,Yes
+351,sheep,fever,swelling,lameness,heat,pains,Yes
+352,sheep,skin color change,crusty,scaly skin,irritation,blister,Yes
+353,sheep,radip onset,stiff,muscle trembling,weakness,death,Yes
+354,sheep,head shking,discharge from ear,scartching ear,odor to ear,redness on ear,Yes
+355,sheep,discharge from eyes,redness of eye,blindness,scartches,pains,Yes
+356,sheep,fever,loss of appetite,scartches,death,pains,Yes
+357,sheep,discomfort,loss of appetite,bloody diarrhea,profuse,pains,Yes
+358,sheep,swelling,larynx,swelling on jaw,hoarseness,neck vein swelling,Yes
+359,sheep,inflammation,discomfort,kicking at the belly,urine infection,pains,Yes
+360,sheep,isolation from flock,stealing,nesting behaviour,pawing at bedding,pains,Yes
+361,sheep,listless,difficulty in walking,grinding of teeth,blindness,ataxia,Yes
+362,sheep,bluish white opacity,aversion to light,tear produce,blindness,weakness,Yes
+363,sheep,head tossing,wool loss,fast breathing,bleeding wounds,skin issue,Yes
+364,pigs,cough,panting,facial swelling ,production of mucus,fatigue,Yes
+365,fowl,cough,sneeze,droopy wings,twisted neck,droopy wings,Yes
+366,duck,shortness of breath ,fatigue,chirping,loss of appetite,swollen abdomen,Yes
+367,other birds,gasping,coughing,mild weakness,droopy wings,twisted neck,Yes
+368,pigs,excessive blood loss,dizziness and fainting,blurry vision,watery eyes,slow growth,Yes
+369,fowl,nosebleed,trauma,mild weakness,nose picking,dry air,Yes
+370,duck,bleeding from other parts of the body,confusion,nasal discharge,loss of alertness,dizziness and fainting,Yes
+371,other birds,bad breath,pawing at the face or nose,cough,sneezing,bleeding from the nose,Yes
+372,fowl,extending its neck,gasping for air,gasping for breath,difficulty swallowing,gasping for breath,Yes
+373,duck,difficulty swallowing,cough,difficulty swallowing,gasping for air,extending its neck,Yes
+374,other birds,cough,gasping for air,weight loss,gasping for breath,extending its neck,Yes
+375,pigs,weakness,decreased stool production,distended stomach,heavy breathing,restless movement,Yes
+376,fowl,eye redness,frequent eye infections,crusty eye lashes and matting of eyelashes,foul smelling stools,increased passing gas,Yes
+377,duck,excessive eye watering,eye redness,weakness,mucus discharge from the eye,frequent eye infections,Yes
+378,other birds,sudden death,loss of appetite,rapid heartbeats,fluffed feathers,lack of vocalizations,Yes
+379,fowl,unable to urinate,lightheadedness,droopiness,rectal bleeding,swollen abdomen,Yes
+380,duck,extreme thirst,bloody discharge,loss of appetite,inability to fly,loss of wariness,Yes
+381,other birds,egg production stops,broody behavior,loss of appetite,weight loss,constipation,Yes
+382,fowl,nausea,vomiting,loss of appetite,experiencing changes in weight,pain and bloating,Yes
+383,duck,burning ache or pain,vomiting,loss of appetite,experiencing changes in weight,pain and bloating,Yes
+384,other birds,continuous loss of weight,regurgitation of food,wheezing,excessive food intake,undigested seeds,Yes
+385,snake,loss of appetite,lathargy,abortion,gurgling sound,depression,Yes
+386,horse,fever,mild colic,loss of tail tone,loss of appetite,depression,Yes
+387,horse,head tilt,lathargy,lathargy,urine dribbling,inability to rise,Yes
+388,horse,fever,loss of appetite,respiratory noise,weight loss,depression,Yes
+389,horse,fever,nasal discharge,muscular stiffness,swollen lymph nodes,depression,Yes
+390,horse,sweating,muscular spasms,thirst,weight loss,difficulty moving and eating,Yes
+391,duck,loss of appetite,high body temperaure,lack of appetite,diarrhea,sudden death,Yes
+392,donkey,sweating,dry or tacky gums,reduced appetite,lying down,dull ness,Yes
+393,donkey,outstretched neck,dull ness,inappetence,noisy breathing,coughing,Yes
+394,donkey,weight loss,dull ness,inappetence,self isolation,recumbency,Yes
+395,mules,weight loss,dull ness,muscles problem,self isolation,recumbency,Yes
+396,elephant,changed gait,dull ness,muscles problem,pain,pains,Yes
+397,elephant,changed gait,dull ness,diffuse,difficulty diagnosis,anemia,Yes
+398,elephant,difficulty in breathing,swelling problem,bleeding from wounds,frequent yawning,anorexia,Yes
+399,elephant,undernutrition,drinking polluted water,listlessness,staggering,anorexia,Yes
+400,deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes
+401,elk,wasting,stumbling,listlessness,drooling,urination problem,Yes
+402,wapiti,wasting,stumbling,listlessness,drooling,urination problem,Yes
+403,deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+404,mule deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+405,black tailed deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+406,sika deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+407,white tailed deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes
+408,raindeer,wasting,stumbling,listlessness,drooling,drooping ears,Yes
+409,moos,wasting,stumbling,fever,drooling,drooping ears,Yes
+410,tiger,feline infections,lymphosarcoma,difficulty breating,stomatitis,anaemia,Yes
+411,deer,sudden death,high temperature,difficulty breating,weight loss,trembling,Yes
+412,cattle,sudden death,high temperature,difficulty breating,aneamia,trembling,Yes
+413,goats,sudden death,high temperature,difficulty breating,staggering,trembling,Yes
+414,sheep,sudden death,high temperature,rapid pulse and heart rates,depression,trembling,Yes
+415,buffaloes,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
+416,sheep,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
+417,goats,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
+418,cattle,fever,loss of appetite,swollen teats,lameness in affected leg,depression,Yes
+419,cattle,swelling,nasal discharge,drooling,tiredness,fever,Yes
+420,sheep,eye discharges,nasal discharge,change their normal behaviour,high body temperature,lameness,Yes
+421,dogs,stop eating,stop drinking,change their normal behaviour,lameness,pains,Yes
+422,fox,stop eating,stop drinking,change their normal behaviour,weight loss,pains,Yes
+423,wolves,stop eating,stop drinking,change their normal behaviour,depression,pains,Yes
+424,hyaenas,stop eating,stop drinking,change their normal behaviour,diarrhea,pains,Yes
+425,duck,fever,diffulty swallowing,excessive drooling,staggering,seizures,Yes
+426,duck,fever,diarrhea,vomiting,weight loss,dehydration,Yes
+427,duck,fever,diarrhea,coughing,tiredness,pains,Yes
+428,duck,fever,diarrhea,coughing,vomiting,anorexia,Yes
+429,duck,fever,difficulty in breathing,coughing,lethargy,sneezing,Yes
+430,duck,fever,diarrhea,coughing,lethargy,blue eye,Yes
+431,duck,fever,respiratory distress,seizuers,hyperesthesia,sudden death,Yes
+432,duck,ulcers,diarrhea,poor appetite,tarry stool,enlarged lymph nodes,Yes
+433,duck,facial swelling,bloody drool,foul breath,unable to eat,lossened teeth,Yes
+434,duck,fever,difficulty in breathing,thrist and urination,weight loss,enlarged lymph nodes or swelling,Yes
+435,duck,swelling on leg,painfull,nasal discharge,broken bones,nasal discharge,Yes
+436,duck,short term lethargy,loss of  appetite,weekness in the back legs,rapid heart rate,week pulse,Yes
+437,duck,swollen lymph nodes,difficulty in walking,back pain,lethargy,vaginal discharge,Yes
+438,duck,fever,diarrhea,abdominal pain,stiffness,severe weekness and depression,Yes
+439,duck,fever,loss of  appetite,reduce energy,lameness,swelling of joints,Yes
+440,duck,fever,chronic eye inflamation,poor appetite,lethargy,neurologic abnormalities,Yes
+441,duck,fever,swelling of face or leg,poor appetite,depression,pains,Yes
+442,duck,diarrhea with muscus,tensemus,watery stool,flatulence,pains,Yes
+443,duck,strong cough,runny nose,sneezing,lethargy,loss of appettite,Yes
+444,duck,fever,inflammed eye,coughing,depression,limping,Yes
+445,duck,fever,difficulty in breathing,coughing,eye and skin change,unable to exercise,Yes
+446,duck,fever,loss of  appetite,coughing,lethargy,joint pain,Yes
+447,duck,lesions in the nasal cavity,lesions on nose,nose bleeds,noisy breathing,lesions on nose,Yes
+448,duck,hair loss,dandruff,darkened skin,crusting of the skin,ulcerated skin,Yes
+449,duck,greenish yellow nasal discharge,lack of pigmentation,sneezing,lethargy,pain on face,Yes
+450,duck,fever,diarrhea,poor appetite,weight loss,vomitting,Yes
+451,duck,jaundice,pneumonia,lession on the skin,pain,vomitting,Yes
+452,duck,poor coat apperence,diarrhea,vomiting,weight loss,dehydration,Yes
+453,duck,watering,no appp,vomiting,lethargy,dehydration,Yes
+454,duck,straining,diarrhea,vomiting,weight loss,blindness,Yes
+455,duck,upset stomach,diarrhea,vomiting,muscle pain,muscle stiffness,Yes
+456,duck,upset stomach,diarrhea,coughing,weight loss,anaemia,Yes
+457,duck,allergic reaction,poor appetite,coughing,weight loss,distended chest,Yes
+458,duck,fever,anoxeria,weight loss,lethargy,pain,Yes
+459,duck,limping,willnot run to jump,swelling,week legs,pain on leg,Yes
+460,duck,fever,eye ulcer,congestion,depression,pink eye,Yes
+461,duck,pnemonia,loss of  appetite,eye disharge,lameness,arthritis,Yes
+462,duck,fever,seizures,hydrophobia,jaw is dropped,shyness or aggression,Yes
+463,duck,bloody urine,difficulty in breathing,vomiting,weight loss,anorexia,Yes
+464,duck,loss of eat,difficulty in breathing,swelling,lameness,neurologic abnormalities,Yes
+465,duck,dark or black face,diarrhea,vomiting,blood in faces,pain,Yes
+466,duck,jaundice,difficulty in breathing,seizuers,lethargy,pale gums,Yes
+467,duck,appetite varies,diarrhea,vomiting,weight loss,pain,Yes
+468,duck,loss of eat,fell unwell,lethargy,weight loss,skin issue,Yes
+469,duck,sickness,loss of  appetite,vomiting,weight loss,raised growth or bump,Yes
+470,duck,nasal bleeding,diffulty chewing,swelling,weight loss,anorexia,Yes
+471,duck,ulcers,lesions,scabs,lumps,bumps black grey or red ,Yes
+472,duck,gasc,loss of  appetite,blood in stool,stomach growling,black stool,Yes
+473,duck,shaking head,scartching ear,black on ear,bad smell,red and inflammation ear,Yes
+474,duck,attacks,loss of  appetite,coughing,weight loss,periodic vommiting,Yes
+475,elephant,blood stool,diarrhea,coughing,weight loss,anemia,Yes
+476,elephant,nasal discharge,nosebleeds,inflamed nostrils,sneezing,lound breathing,Yes
+477,elephant,polyuria,loss of  appetite,vomiting,weight loss,polydipsa,Yes
+478,elephant,exessive urination,change in gait,vomiting,weight loss,inability to jump,Yes
+479,elephant,convulsion,loss of consciousness,chewing,twitching,salivating,Yes
+480,elephant,wheezing,rapid breathing,coughing,swallowing,effort to breath,Yes
+481,elephant,jaundice,weekness,lethargy,weight loss,anorexia,Yes
+482,elephant,lession on cat skin,dandruff in cat coat,red patches,hair loss,skin issue,Yes
+483,elephant,lethargy,diarrhea,vomiting,discharge from eye,anorexia,Yes
+484,elephant,skin irritation,scartching,lethargy,hair loss,excessive grooming,Yes
+485,elephant,floopy muscle,speech delay,intellectual disability,walking problem,eye movements,Yes
+486,elephant,sensitivity to bright light,disharge from affected eye,inflammation,clouded cornea,rubbing eye,Yes
+487,elephant,fever,diarrhea,vomiting,cramps,dehydration,Yes
+488,elephant,tenderness,erythema,swelling,scartch,pain,Yes
+489,elephant,fever,diarrhea,vomiting,salivation,decrease appetite,Yes
+490,elephant,scaly patches of skin,sore,scabs,scartch,hair loss,Yes
+491,elephant,fatty stool,diarrhea,vomiting,weight loss,pain,Yes
+492,elephant,nausea,loss of appetite,vomiting,firm,distended stomach,Yes
+493,elephant,fever,swelling  in the bite area,lethargy,limp,pain,Yes
+494,elephant,fever,loss of appetite,eyeproblem,liver disease,nuerological,Yes
+495,elephant,fever,mild sneezing,coughing,nasal,ocular discharge,Yes
+496,elephant,most often none,sneezing,nasal discharge,dyspnea,pain,Yes
+497,elephant,fever,diarrhea,vomiting,blood from mouth,shock,Yes
+498,elephant,discomfort,diarrhea,dry or dull hair,grinding teeth,pain,Yes
+499,elephant,loss of appetite,swelling,nasal discharge,blindness,lethargy,Yes
+500,elephant,rhinitis,pneumonia,abscessess,torticollis,septicemia,Yes
+501,elephant,fever,diarrhea,enteritis,weight loss,stomach  cramps,Yes
+502,elephant,immediate death,difficulty in breathing,blue colored lip,bloody discharge,neurologic abnormalities,Yes
+503,elephant,fever,pox lession on skin,skin reashes,nasal discharge,mortality varies,Yes
+504,elephant,red on affected area,horny growth,wart like growth,red skin,lesions on ear,Yes
+505,elephant,fever,chills,skin ulcer,exhaustion,swollen and painfull,Yes
+506,elephant,watering diarrhea,depression,emaciation,ruffled coat,lethargy,Yes
+507,elephant,weight loss,emaciation,loss of appetite,weakness,diarrhoea,Yes
+508,elephant,loss of appetite,diarrhea,swollen purple wattle,swollen comb,lameness,Yes
+509,elephant,loss of appetite,diarrhea,ruffled feathers,weight loss,inability to absorb nutrients,Yes
+510,elephant,egg production decreases,stunted growth,blindness,distinctive bumps,facial swelling,Yes
+511,elephant,loss of appetite,thirst,ruffled feathers,closed eyes,diarrhea,Yes
+512,elephant,fever,weakened legs,los of the ability to walk,mammary glads,fluif filled blisters,Yes
+513,elephant,fever,weakened legs,los of the ability to walk,weight loss,lameness,Yes
+514,elephant,abortion at the end of gestation,fatigue,weak calves,join pains,swelling of internal organs,Yes
+515,elephant,swollen,red colored,hot udder,milk getting out more watery,milk getting out more thick,Yes
+516,elephant,fever,distress,trembling,staggering,convulsion,Yes
+517,elephant,fever,animal become lame,prostrat,painfull swalling,lameness,Yes
+518,elephant,fever,difficulty in breathing,dribbling of saliva,inability of swalllon feeding,moist and painfull,Yes
+519,elephant,fluif faeces on blood and muscle,sudden death,blooody fluid,red diarrhea,faeces are streake with blood,Yes
+520,elephant,fever,pneumonia,stand with head droping,weight loss,abnormal behaviour,Yes
+521,elephant,fever,slightly swollen,lession on the skin,milky hard,papules appear on teats anad udder,Yes
+522,elephant,fever,dull,hind quarted soil,animal stop feed,decrease in milk production,Yes
+523,elephant,severe,diarrhea,blood on faces,appetite,milk reduce,Yes
+524,elephant,fever,depression,relunctance to move,salivation,nasal discharge,Yes
+525,elephant,normal appetite,diarrhea,swelling may occur under jaw,weight loss,drop in milk production,Yes
+526,elephant,swelling on leg,heat,hardness,redness,pain,Yes
+527,elephant,inability to stand,diarrhea,bottle jaw,pot belly,dry hair coat,Yes
+528,elephant,excitability,nervousness,loss of appetite,hyper sensitivity,weakness,Yes
+529,elephant,fever,depression,attack,bite other animals,pain,Yes
+530,hamster,fever,difficulty in breathing,coughing,painfull,eye become dull,Yes
+531,hamster,fever,ulcer on gum,red eye,yellowish discharge,bloody diarrhea,Yes
+532,hamster,fever,diarrhea,coughing,consistency of milk,pain,Yes
+533,hamster,animal gets uneasy,difficulty in breathing,difficult in respiration,excessive production,stamping and pedding of hind eye,Yes
+534,hamster,fever,chills,severe colic,weakness,anorexia,Yes
+535,hamster,fever,body stiffness,lethargy,severe inflammation,pain,Yes
+536,hamster,sickness,diarrhea,weight loss,nausea,dehydration,Yes
+537,hamster,sudden death,trouble walking,paralysis,depression,convulsion,Yes
+538,hamster,fever,abortion,kidney failure,inflammation of eye,eye redness,Yes
+539,hamster,small red bumps,pneumonia,septic arthritis,skin infection,pain,Yes
+540,hamster,fever,ataxia,aggressiveness,depression,obscure lameness,Yes
+541,fowl,ring shaped lesion,round patches,dry skin,size of lesions vary,pain,Yes
+542,fowl,fever,diarrhea,loss of appetite,colic,weakness,Yes
+543,fowl,fever,depression,loss of appetite,stumbling,ataxia,Yes
+544,fowl,bubbles in the mouth,wheezing,loss of appetite,lethargy,nasal discharge,Yes
+545,fowl,changes in outer layer skin,swelling of eye,loss of appetite,lethargy,respiratory infection,Yes
+546,fowl,red tinge,slim over the shell,bad smell,easily damage shell,flaking of the scutes,Yes
+547,fowl,passing of undigested food,diarrhea,vomiting,gas or bloating,dehydration,Yes
+548,fowl,smell,diarrhea,loss of appetite,excess sleeping,folded ears,Yes
+549,fowl,loss of activity,rough coat,loss of appetite,weight loss,eventually death,Yes
+550,fowl,fever,diarrhea,vomiting,dehydration,pain,Yes
+551,fowl,bald patches,hair loss,crusty,flaky,red lesion from bald patches,Yes
+552,fowl,poor condition,enlarged lymph nodes,diarrhea,weight loss,pain,Yes
+553,fowl,fever,chills,coughing,progressive weakness,joint pain,Yes
+554,fowl,heavy infection,diarrhea,vitamin and minerals defiency,weight loss,pain,Yes
+555,fowl,fever,diarrhea,muscle weakness,muscle pain,abdonormal discomfort,Yes
+556,fowl,fever,chills,headache,nausea,pain,Yes
+557,fowl,thicked skin,hair tining,hair loss,scabbing,itchiness,Yes
+558,fowl,facial edema,loss of earing,vomiting,head ache,throat and ear pain,Yes
+559,fowl,general malaise,hepatic failure,vomiting,weight loss,abdonormal pain,Yes
+560,fowl,upset stomach,loss of appetite,nause,weight loss,abdonormal pain,Yes
+561,fowl,fever,muscle loss,skeleten pain,weight loss,wasting,Yes
+562,fowl,oedema,swelling of face or leg,swelling of neck,weight loss,pain,Yes
+563,fowl,poor growth,short stature,enlargement of bones,lameness,weigth bearing long bones,Yes
+564,fowl,fever,chills,sweat,head ache,fatique,Yes
+565,fowl,fever,loss of appetite,weakness,weight loss,vomitting,Yes
+566,fowl,dullness,lacrimation,coughing,diarrhea,seizures,Yes
+567,fowl,vomiting,bloody diarrhea,lethargy,dehydration,anorexia,Yes
+568,fowl,fever,uncharacteristic hiding,depression,dehydration,stopped eat,Yes
+569,fowl,fever,poor coat condition,infection of the skin,weight loss,fatique,Yes
+570,fowl,weakness,stiffness,trembling,white mark on the muscle,loss of vitamin e,Yes
+571,fowl,partial paralysis,staggering as drunk,self mutilation,acting aggressive,acting unnaturally tame,Yes
+572,fowl,fever,tiredness,headache,skin rashes,pain,Yes
+573,fowl,thick crusting,itchiness,hair loss,watery eye,pain,Yes
+574,fowl,constant pacing,facial muscle twitching,abnormalalities,blindness,muscle pain,Yes
+575,fowl,loss of appetite,wheezing,seizuers,skin rashes,fatique,Yes
+576,fowl,indigestion,abdominal pain,constipation,diarrhea,nausea,Yes
+577,fowl,blood in urine,diarrhea,vomiting,lethargy,bleeding in eye and skin,Yes
+578,fowl,fever,malaise,weakness,weight loss,pain,Yes
+579,fowl,fever,diarrhea,vomiting,stomach cramps,nausea,Yes
+580,fowl,fever,lack of coordination,depression,salivation,facial paralysis,Yes
+581,fowl,sores on lip,infection,sores on lower leg and teats,lesion,pain,Yes
+582,fowl,abortion on late pregancy,stillbirth,retained placenda,endomeritis,decrease appetite,Yes
+583,fowl,paresis,paralysis,weakness,stomach cramps,diarrhea,Yes
+584,fowl,fever,diarrhea,swelling,weight loss,pain,Yes
+585,fowl,fever,hemolytic anemia,hemoglobinuria,pulmonary congestion,jaundice,Yes
+586,fowl,abortion,mummification,stillbirth,weak kids,pain,Yes
+587,fowl,runny nose,difficulty in breathing,coughing,weakness,loss of appettite,Yes
+588,fowl,fever,nasal discharge,respiratory distress,pox lesion,pain,Yes
+589,fowl,fever,dark colored bloody,incoordination,difficulty in breathing,terminal convulsion,Yes
+590,fowl,fever,dysentery,swelling,immediate death,pain,Yes
+591,fowl,fever,respiratory distress,mucous discharge,reduce feed,weight gain,Yes
+592,fowl,decreased milk,holding limbs off the ground,weight loss,lameness,wool production,Yes
+593,fowl,swelling of udder,change in milk,swollen,tender to touch,pain,Yes
+594,fowl,fever,respiratory distress,occular discharge,mouth lesion,nasal discharge,Yes
+595,fowl,fever,wound lesion,excess salivary,difficult in walking,pain,Yes
+596,fowl,emaciation,edema in lower jaw,coughing,shivering,anemia,Yes
+597,buffaloes,fever,reduce growth,kid moratality,weakness,dullness,Yes
+598,buffaloes,fever,reduce growth,edema in lower jaw,weight loss,anemia,Yes
+599,buffaloes,emaciation,diarrhea,kid moratality,weakness,anemia,Yes
+600,buffaloes,skinallergy,reduce growth,wound,head ache,dizziness,Yes
+601,buffaloes,watering of eyes,redness of white of the eye,swelling of eyelid,cornea become cloudy,tear production,Yes
+602,buffaloes,berberi,wasting,nervous,weight loss,anorexia,Yes
+603,buffaloes,gastritis,morbidity,bloody,mortality,anemia,Yes
+604,buffaloes,fever,severe headache,vomiting,coughing,fatique,Yes
+605,buffaloes,fever,tiredness,swollen kidney,hematuria,muscle aches,Yes
+606,buffaloes,fever,diarrhea,decreased appetite,vomiting,bloody,Yes
+607,buffaloes,gas,diarrhea,abdominal discomfort,vomiting,nausea,Yes
+608,buffaloes,drooping ears,lack of coordination,drooling,wasting,listlessness,Yes
+609,buffaloes,edema,diarrhea,nasal discharge,decresed egg production,sneezing,Yes
+610,buffaloes,drooping wings,depression,nasal discharge,coughing,greenish diarrhea,No
+611,buffaloes,weakness,yellow or green dropping,purplish combs,wattles,drop on egg production,No
+612,buffaloes,neck paralysis,diarrhea,ruffled feathers,labored breathing,weakness,No
+613,buffaloes,facial swelling,lacrimation,diarrhea,anorexia,nasal discharge,No
+614,buffaloes,loss of appetite,depression,paralyzed leg,weight loss,anemia,No
+615,buffaloes,dejection,loss of appetite,slow growth,diarrhea,lesion,No
+616,buffaloes,severe swellimg,heavy breathing,diarrhea,weight loss,pain,No
+617,buffaloes,weakness,diarrhea,high moratality,dehydration,anorexia,No
+618,buffaloes,fever,hepatitis,skin rashes,weight loss,pain,No
+619,buffaloes,sneezing,epistaxis,coughing,difficulty in breathing,nasal discharge,No
+620,buffaloes,sneezing,unilateral nasal discharge,gagging,retching,weight loss,Yes
+621,buffaloes,fever,depression,coughing,weight loss,anorexia,Yes
+622,buffaloes,shallow breathing,halitosis,coughing,lethargy,nasal discharge,Yes
+623,buffaloes,dyspnea,sneezing,coughing,difficulty in breathing,infection,Yes
+624,buffaloes,dyspnea,sneezing,coughing,difficulty in breathing,pain,Yes
+625,buffaloes,fever,rhinorrhea,coughing,sneezing,dehydration,Yes
+626,buffaloes,fever,rhinorrhea,coughing,facial edema,dyspnea,Yes
+627,buffaloes,fever,rhinorrhea,coughing,sneezing,nasal discharge,Yes
+628,buffaloes,mortality,painfull,coughing,weight loss,nasal discharge,Yes
+629,buffaloes,skin rashes,diarrhea,death,facial edema,pain,Yes
+630,buffaloes,fever,dyspnea,coughing,lethargy,weightloss,Yes
+631,buffaloes,fever,dyspnea,coughing,weakness,anorexia,Yes
+632,buffaloes,facial edema,dyspnea,conjuctivtis,weakness,pharyngitis,Yes
+633,buffaloes,fever,pneumonia,congestion,lethargy,nasal discharge,Yes
+634,buffaloes,fever,death,coughing,weight loss,nasal discharge,Yes
+635,buffaloes,sneezing,convulsion,seizuers,weight loss,nasal discharge,Yes
+636,buffaloes,fever,death,coughing,dyspnea,anorexia,Yes
+637,buffaloes,dyspnea,difficulty in breathing,coughing,lethargy,nasal discharge,Yes
+638,buffaloes,air sacculitis,halitosis,coughing,enteritis,weight loss,Yes
+639,buffaloes,fever,convulsion,sudden death,urine retention,weight loss,Yes
+640,buffaloes,dyspnea,neurologic sign,coughing,depression,anorexia,Yes
+641,buffaloes,fever,dyspnea,coughing,lethargy,anorexia,Yes
+642,buffaloes,labored breathing,dyspnea,coughing,depression,anorexia,Yes
+643,buffaloes,blood from mouth,diarrhea,coughing,lethargy,weight loss,Yes
+644,buffaloes,hemopytsis,diarrhea,asymptomatic,death,epistaxis,Yes
+645,buffaloes,restlessness,weakness,blue straws,death,pain,Yes
+646,buffaloes,stripped remiges,less feather growth,ruffled feathers,defienciency in vitamin,diarrhea,Yes
+647,buffaloes,apathy,depression,dilation of duodenum,cloacal pasting,congestion,Yes
+648,buffaloes,lepatomegaly,splenomegaly,vomiting,swollen,shaking oh head,Yes
+649,buffaloes,balance problem,abdominal destention,neck paralysis,weight loss,pains,Yes
+650,buffaloes,legness,paresis,coughing,weight loss,shortness of breath,Yes
+651,buffaloes,fever,sour throat,mortality,muscle aches,abnormalities,Yes
+652,buffaloes,difficulty in feeding,preening,weakness,beak overgrowth,anemia,Yes
+653,buffaloes,fever,loss of appetite,ear infection,depression,nasal discharge,Yes
+654,buffaloes,forthy eye,torticollis,weakness,swelling,emaciation,Yes
+655,buffaloes,inappentence,diarrhea,tremors of the head,dehydration,weight loss,Yes
+656,buffaloes,lack of walking,lack of flying,roughened,dehydration,pains,Yes
+657,buffaloes,skin rashes,small and yellow bumps,swelling,dry scabs,lameness,Yes
+658,buffaloes,scabs on feet,redness,trachea,thickening of skin,pains,Yes
+659,buffaloes,enlarged thymus,obstructed lungs,lethargy,skin rashes,weight loss,Yes
+660,buffaloes,fluffed feather,loss of appetite,coughing,vomiting,snoring,Yes
+661,buffaloes,fever,difficulty in breathing,yellow eye,sneezing,diphtherictic,Yes
+662,buffaloes,heavy breathing,yellow in beak,tail_bobbing,weakness,sleeping excessively,Yes
+663,buffaloes,puffed_up feather,less eat,headache,half closed eye,seizures,Yes
+664,buffaloes,fever,diarrhea,swollen abdomen,vomiting,difficulty in breathing,Yes
+665,buffaloes,tail wagging,straining,lethargy,weakness,diarrhea,Yes
+666,buffaloes,overweight,loss of appetite,ruffled feathers,depression,diarrhea,Yes
+667,buffaloes,dejection,loss of appetite,stress,coughing,pains,Yes
+668,buffaloes,skin infection,secondary infection,coughing,depression,shaking oh head,Yes
+669,buffaloes,discharge from eyes,lethargy,coughing,sneezing,fatique,Yes
+670,buffaloes,fever,chills,retarded growth,chest pain,chest pain,Yes
+671,buffaloes,pale comb,lame,death,swolling of joint,eye closed,Yes
+672,buffaloes,lethargy,loss of appetite,difficulty in swallowing,weakness,vision problem,Yes
+673,buffaloes,emaciation,difficulty in breathing,vomiting,weakness,diarrhea,Yes
+674,buffaloes,liquid dropping,exhaustion,ataxia,lethargy,seizures,Yes
+675,buffaloes,undigested in their feces,loss of appetite,loss of pigment,weakness,bloody in feather,Yes
+676,buffaloes,sharp feather,clubbed feather,eye disharge,loss of powder down,diarrhea,Yes
+677,buffaloes,ruffled appearance,loss of appetite,vomiting,green dropping,nasal discharge,Yes
+678,buffaloes,sinuses,swollen eyelids,skin rashes,sneezing,misshapen beak,Yes
+679,buffaloes,feather loss,feather plucking,coughing,itching,nasal discharge,Yes
+680,buffaloes,watery eyes,eye closed,weight loss,sneezing,nervous issue,Yes
+681,buffaloes,bony lesion,skin rashes,ataxia,anorexia,weakness,Yes
+682,buffaloes,tremor of head and neck,blindness,kicking at the belly,exercise in tolerance,pains,Yes
+683,buffaloes,swollen belly,dullness,discharge,urination,lying down,Yes
+684,buffaloes,fever,dullness,depression,weight loss,anorexia,Yes
+685,buffaloes,fever,succumb,spread of infection,weight loss,anorexia,Yes
+686,buffaloes,signs in rams,signs in ewe,underdeveloped muscles,semen examination,reduce lamp marking,Yes
+687,buffaloes,spines,unusally thin,weakness,enlarged skulls,weakness,Yes
+688,buffaloes,discharge,sudden abortion,hemoglobinuria,death of lamb,weight loss,Yes
+689,buffaloes,fever,hemolytic anemia,sweats,congestion,jaundice,Yes
+690,buffaloes,fever,tiredness,loss of appetite,muscle aches,chest pain,Yes
+691,buffaloes,excess salivation,diarrhea,depression,nasal discharge,weakness,Yes
+692,buffaloes,fever,diarrhea,incoordination,abortion,blood poisioning,Yes
+693,buffaloes,fever,wasting,dehydration,deability,weakness,Yes
+694,buffaloes,fever,diarrhea,muscle twiching,lameness,weight loss,Yes
+695,buffaloes,teeth griding,apathy,dehydration,ruminal stasis,watery faeces,nan
+696,buffaloes,fever,depression,lying down,weak pulse,colic,Yes
+697,buffaloes,swelling,lameness,hyperaestesia,hock joint,weight loss,Yes
+698,buffaloes,head tilt,circling,muscles ache,blindness,seizures,Yes
+699,buffaloes,decreased growth of bone,depression,grunting,lameness,weight loss,Yes
+700,buffaloes,swollen left abdomen,lying down,staggering,urination,extension of neck,Yes
+701,buffaloes,cessation of eructation,difficulty in breathing,depression,anorexia,colic,Yes
+702,buffaloes,fever,excession salivation,abnormal conformation,ulcerated muscle,ulcerated ear,Yes
+703,buffaloes,barren ewes,abortion,poor conformation,hairy fleeces,weight loss,Yes
+704,pig,tremor,viability,coughing,anorexia,weight loss,Yes
+705,pig,fever,tachypea,swelling of head and neck,anorexia,nasal discharge,Yes
+706,pig,lllthrift,skin lesion,lameness,swelling on thebody,weight loss,Yes
+707,pig,swelling,heat,flank,pain,nasal discharge,Yes
+708,pig,fever,loss of appetite,lameness,rump,weight loss,Yes
+709,pig,fever,swelling,loss of appetite,anorexia,weight loss,Yes
+710,pig,fever,diarrhea,bloody droping,abdominal discomfort,lethargy,Yes
+711,pig,fever,depression,small intestines,death,flock moratality,Yes
+712,pig,haemorrhage,straw colored,abdominal pain,death,carcass decomposes,Yes
+713,pig,bloody diarhhea,depression,dullness,death,weakness,Yes
+714,pig,reluctant move,loss of appetite,lameness,death,weakness,Yes
+715,pig,fever,depression,loss of appetite,loss of appetite,pains,Yes
+716,pig,fever,difficulty in breathing,lethargy,death,pains,Yes
+717,pig,poor wool,loss of appetite,lameness,small size,poor body condition,Yes
+718,pig,poor immune function,achomotrica,dehydration,death,pains,Yes
+719,pig,abdominal pain,diarrhea,malpresentation,shock,anorexia,Yes
+720,pig,fetopelvic dispropotion,uteria inertia,despression,death,pains,Yes
+721,pig,watery diarrhea dispropotion,sick,corneal ulceration,loss of appetite,death,Yes
+722,pig,severe kerititis,conjunctive,discharge,iris prolapse,loss of eye,Yes
+723,pig,swollen,testical pain,itches,bloody discharge,tenderness,Yes
+724,pig,fever,diarrhea,depression,scratches,weight loss,Yes
+725,pig,foul smelling,dullness,dirty,stained wool,tail shaking,Yes
+726,pig,sheep often bites,fleece become thin,loss of wool,death,pains,Yes
+727,pig,fever,dullness,dullness,skin rashes,pains,Yes
+728,pig,fever,difficulty in breathing,rub,coughing,sneezing,Yes
+729,pig,restlessness,kick,lethargy,nible at their wool,scratching,Yes
+730,pig,jaundice,loss of appetite,rough hair coat,coughing,death,Yes
+731,pig,fever,reduce reproductive potential,agalactia,loss of milk production,sloughing of the tail,Yes
+732,pig,pyrexia,oral lesion,swelling,lameness,death,Yes
+733,pig,red skin,loss of appetite,moist,lameness,pains,Yes
+734,pig,limping,skin colour change,flabby,raw,sensitive to touch,Yes
+735,pig,groosly enlarged,skin may thicken,convulsion,edematous,pains,Yes
+736,pig,hyperexcitability,muscular spasms,gums,death,pains,Yes
+737,pig,decreased eyelid,very cold skin,lethargy,lip,fever,Yes
+738,pig,fever,diarrhea,muscus,weight loss,death,Yes
+739,pig,foul smelling,diarrhea,colic,bloody discharge,blood clots,Yes
+740,pig,inability to digest,diarrhea,dehydration,weight loss,anemia,Yes
+741,pig,fever,diarrhea,pot belly,death,loss of appettite,Yes
+742,pig,emaciation,diarrhea,coughing,weight loss,death,Yes
+743,pig,respiratory distress,diarrhea,death,reduce milk,weight loss,Yes
+744,pig,lllthrift,bottle jaw,strange behaviour,aneamia,jaundice,Yes
+745,pig,fever,lameness,wasting,blindness,staggering,Yes
+746,pig,fever,diarrhea,clearly unthrifty,weight loss,good appetite,Yes
+747,pig,fever,dullness,relunctance to walk,infected navels,pains,Yes
+748,pig,tenderness,foot hot,facial paralysis,weight loss,pains,Yes
+749,pig,fever,lack of coordination,painfull to touch,circling,depression,Yes
+750,pig,swollen,warm,constipation,depression,bloody,Yes
+751,pig,fever,loss of appetite,stumbling,restlessness,pains,Yes
+752,pig,unsteady gait,twitching,blindness,swelling on joints,pains,Yes
+753,pig,fever,ulcer,scabs,discharge from eye,pains,Yes
+754,pig,smell of ammonia,ulcer,depression,swelling,pains,Yes
+755,pig,fever,lethargy,blindness,inappentence,increased in breathing,Yes
+756,pig,wandering,circling,blindness,head pressing,recumbency,Yes
+757,pig,tremors,lying on the side,difficulty in swallowing,death,not eating,Yes
+758,pig,fever,difficulty in breathing,coughing,sneezing,seizures,Yes
+759,pig,swelling,loss of appetite,wool loss,tears,death,Yes
+760,pig,wool is clumped,feels stiff,staggering,skin rashes,pains,Yes
+761,pig,swaying,behaviour change,tremor,jerky limb movements,pains,Yes
+762,pig,cell damage,behaviour change,weight loss,pruritis,death,Yes
+763,pig,swelling,discomfort,difficulty in rising,death,pains,Yes
+764,pig,swollen,hot joints,pustulses,difficulty in walk,pains,Yes
+765,pig,formation of vesicles,nostrils,abnormally long leg,scabs on lip,pains,Yes
+766,pig,skeleten abnormalities,facial defects,hair loss,flat ribs,underdeveloped muscles,Yes
+767,tiger,wether restless,kicking,normal appetite,attempt to urinate,pains,Yes
+768,tiger,inability to stand,pains to walk,depression,weakness,stiffness,Yes
+769,tiger,fever,succumb,sluggish,anorexia,pains,Yes
+770,tiger,listless,bottle jaw,malpresentation,death,oxygen defiency,Yes
+771,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+772,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+773,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+774,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+775,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+776,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+777,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+778,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+779,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+780,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+781,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+782,tiger,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+783,donkey,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+784,donkey,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+785,donkey,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+786,donkey,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+787,donkey,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+788,donkey,fetopelvic dispropotion,uteria inertia,malpresentation,death,pains,Yes
+789,donkey,fetopelvic dispropotion,uteria inertia,fast breathing,death,pains,Yes
+790,donkey,cough,panting,facial swelling ,production of mucus,fatigue,Yes
+791,donkey,cough,sneeze,droopy wings,twisted neck,droopy wings,Yes
+792,donkey,shortness of breath ,fatigue,chirping,loss of appetite,swollen abdomen,Yes
+793,donkey,gasping,coughing,mild weakness,droopy wings,twisted neck,Yes
+794,donkey,excessive blood loss,dizziness and fainting,blurry vision,watery eyes,slow growth,Yes
+795,donkey,nosebleed,trauma,mild weakness,nose picking,dry air,Yes
+796,donkey,bleeding from other parts of the body,confusion,nasal discharge,loss of alertness,dizziness and fainting,Yes
+797,donkey,bad breath,pawing at the face or nose,cough,sneezing,bleeding from the nose,Yes
+798,donkey,extending its neck,gasping for air,gasping for breath,difficulty swallowing,gasping for breath,Yes
+799,donkey,difficulty swallowing,cough,difficulty swallowing,gasping for air,extending its neck,Yes
+800,donkey,cough,gasping for air,weight loss,gasping for breath,extending its neck,Yes
+801,donkey,weakness,decreased stool production,distended stomach,heavy breathing,restless movement,Yes
+802,donkey,eye redness,frequent eye infections,crusty eye lashes and matting of eyelashes,foul smelling stools,increased passing gas,Yes
+803,donkey,excessive eye watering,eye redness,weakness,mucus discharge from the eye,frequent eye infections,Yes
+804,donkey,sudden death,loss of appetite,rapid heartbeats,fluffed feathers,lack of vocalizations,Yes
+805,donkey,unable to urinate,lightheadedness,droopiness,rectal bleeding,swollen abdomen,Yes
+806,donkey,extreme thirst,bloody discharge,loss of appetite,inability to fly,loss of wariness,Yes
+807,donkey,egg production stops,broody behavior,loss of appetite,weight loss,constipation,Yes
+808,donkey,nausea,vomiting,loss of appetite,experiencing changes in weight,pain and bloating,Yes
+809,donkey,burning ache or pain,vomiting,loss of appetite,experiencing changes in weight,pain and bloating,Yes
+810,donkey,continuous loss of weight,regurgitation of food,wheezing,excessive food intake,undigested seeds,Yes
+811,donkey,loss of appetite,lathargy,abortion,gurgling sound,depression,Yes
+812,donkey,fever,mild colic,loss of tail tone,loss of appetite,depression,Yes
+813,donkey,head tilt,lathargy,lathargy,urine dribbling,inability to rise,Yes
+814,donkey,fever,loss of appetite,respiratory noise,weight loss,depression,Yes
+815,donkey,fever,nasal discharge,muscular stiffness,swollen lymph nodes,depression,Yes
+816,donkey,sweating,muscular spasms,thirst,weight loss,difficulty moving and eating,Yes
+817,donkey,loss of appetite,high body temperaure,lack of appetite,diarrhea,sudden death,Yes
+818,donkey,sweating,dry or tacky gums,reduced appetite,lying down,dull ness,Yes
+819,donkey,outstretched neck,dull ness,inappetence,noisy breathing,coughing,Yes
+820,deer,weight loss,dull ness,inappetence,self isolation,recumbency,Yes
+821,deer,weight loss,dull ness,muscles problem,self isolation,recumbency,Yes
+822,deer,changed gait,dull ness,muscles problem,pain,pains,Yes
+823,deer,changed gait,dull ness,diffuse,difficulty diagnosis,anemia,Yes
+824,deer,difficulty in breathing,swelling problem,bleeding from wounds,frequent yawning,anorexia,Yes
+825,deer,undernutrition,drinking polluted water,listlessness,staggering,anorexia,Yes
+826,deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes
+827,deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+828,deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+829,deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+830,deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+831,deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+832,deer,wasting,stumbling,listlessness,drooling,urination problem,Yes
+833,deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes
+834,deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes
+835,deer,wasting,stumbling,fever,drooling,drooping ears,Yes
+836,deer,feline infections,lymphosarcoma,difficulty breating,stomatitis,anaemia,Yes
+837,deer,sudden death,high temperature,difficulty breating,weight loss,trembling,Yes
+838,deer,sudden death,high temperature,difficulty breating,aneamia,trembling,Yes
+839,deer,sudden death,high temperature,difficulty breating,staggering,trembling,Yes
+840,deer,sudden death,high temperature,rapid pulse and heart rates,depression,trembling,Yes
+841,deer,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
+842,deer,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
+843,deer,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
+844,deer,fever,loss of appetite,swollen teats,lameness in affected leg,depression,Yes
+845,deer,swelling,nasal discharge,drooling,tiredness,fever,Yes
+846,deer,eye discharges,nasal discharge,change their normal behaviour,high body temperature,lameness,Yes
+847,deer,stop eating,stop drinking,change their normal behaviour,lameness,pains,Yes
+848,deer,stop eating,stop drinking,change their normal behaviour,weight loss,pains,Yes
+849,deer,stop eating,stop drinking,change their normal behaviour,depression,pains,Yes
+850,buffaloes,fever,difficulty in breathing,thrist and urination,lethargy,sneezing,Yes
+851,buffaloes,fever,diarrhea,nasal discharge,lethargy,blue eye,Yes
+852,buffaloes,fever,respiratory distress,weekness in the back legs,hyperesthesia,sudden death,Yes
+853,buffaloes,ulcers,diarrhea,back pain,tarry stool,enlarged lymph nodes,Yes
+854,buffaloes,facial swelling,bloody drool,abdominal pain,unable to eat,lossened teeth,Yes
+855,buffaloes,fever,difficulty in breathing,reduce energy,weight loss,enlarged lymph nodes or swelling,Yes
+856,buffaloes,swelling on leg,painfull,poor appetite,broken bones,nasal discharge,Yes
+857,buffaloes,short term lethargy,loss of  appetite,poor appetite,rapid heart rate,week pulse,Yes
+858,buffaloes,swollen lymph nodes,difficulty in walking,watery stool,lethargy,vaginal discharge,Yes
+859,buffaloes,fever,diarrhea,sneezing,stiffness,severe weekness and depression,Yes
+860,buffaloes,fever,loss of  appetite,coughing,lameness,swelling of joints,Yes
+861,buffaloes,fever,chronic eye inflamation,coughing,lethargy,neurologic abnormalities,Yes
+862,buffaloes,fever,swelling of face or leg,coughing,depression,pains,Yes
+863,buffaloes,diarrhea with muscus,tensemus,nose bleeds,flatulence,pains,Yes
+864,buffaloes,strong cough,runny nose,darkened skin,lethargy,loss of appettite,Yes
+865,buffaloes,fever,inflammed eye,sneezing,depression,limping,Yes
+866,buffaloes,fever,difficulty in breathing,poor appetite,eye and skin change,unable to exercise,Yes
+867,buffaloes,fever,loss of  appetite,lession on the skin,lethargy,joint pain,Yes
+868,buffaloes,lesions in the nasal cavity,lesions on nose,vomiting,noisy breathing,lesions on nose,Yes
+869,buffaloes,hair loss,dandruff,vomiting,crusting of the skin,ulcerated skin,Yes
+870,buffaloes,greenish yellow nasal discharge,lack of pigmentation,vomiting,lethargy,pain on face,Yes
